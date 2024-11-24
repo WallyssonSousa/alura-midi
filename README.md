@@ -1,2 +1,3 @@
-# alura-midi
-Alura midi é um projeto desenvolvido em um curso da Alura, de javascript introduzindo ao DOM. 
+### Alura Midi
+
+<p>Este projeto basicamente é uma tabela com botões que ao serem clicados, tocam diferentes tipos de som.</p>
